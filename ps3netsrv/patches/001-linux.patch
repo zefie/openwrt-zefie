@@ -1,0 +1,9 @@
+diff -Naur a/Makefile b/Makefile
+--- a/Makefile	2017-03-18 10:26:42.000000000 -0700
++++ b/Makefile	2019-01-03 08:19:26.963331853 -0800
+@@ -1,4 +1,4 @@
+-OS =  windows
++OS =  linux
+ BUILD_TYPE = release
+ 
+ OUTPUT := ps3netsrv
